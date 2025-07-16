@@ -4,9 +4,9 @@ A classic Snake Game built using **HTML**, **CSS**, and **JavaScript**. Control 
 
 ## 🎮 Demo
 
-divija-arora.github.io/SnakeGame/
+[Click here to play the game](https://divija-arora.github.io/SnakeGame/)
 
-!<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/841efa10-d6d0-4179-9196-c210b6b02259" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/841efa10-d6d0-4179-9196-c210b6b02259" />
 
 
 ## 🚀 Features
@@ -25,7 +25,7 @@ divija-arora.github.io/SnakeGame/
 
 ## 📂 How to Run Locally
 
-1. Clone the repo:
+Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
-   cd snake-game
+   git clone https://github.com/Divija-Arora/SnakeGame.git
+   cd SnakeGame
